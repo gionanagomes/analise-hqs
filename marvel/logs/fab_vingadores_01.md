@@ -41,7 +41,7 @@
 | `joao_honesto` | n/a | joão honesto | n/a | vilão | mutante | masculino |
 | `vento_cortante` | n/a | vento cortante | n/a | vilão | mutante | feminino |
 | `wanda_maximoff` | wanda maximoff | feiticeira escarlate | n/a | herói | mutante | feminino |
-| `danielle_petrakis` | danielle petrakis | água dançante | n/a | vilão | mutante modificado | feminino |
+| `danielle_petrakis` | danielle petrakis | água dançante | n/a | vilão | mutante | feminino |
 | `mzee` | n/a | mzee | n/a | vilão | mutante | masculino |
 
 ## log de mineração (bruto)
